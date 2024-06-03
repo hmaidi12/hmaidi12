@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hmaidi12
+- 👋 Hi, I’m @Siwar
 - 👀 I’m interested in exploring new technologies, coding challenges, and learning about innovative solutions to real-world problems.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open-source projects related to web development
